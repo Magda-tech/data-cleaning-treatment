@@ -87,7 +87,7 @@ dataset.loc[(dataset['Age'] < 0) | (dataset['Age'] > 120)]
 
 dataset[dataset.duplicated(['Id'],keep=False)]
 
-# to delete duplicate ID
+#to delete duplicate ID
 
 dataset.drop_duplicates(subset="Id",keep="first",inplace=True)
 
@@ -96,5 +96,6 @@ dataset.drop_duplicates(subset="Id",keep="first",inplace=True)
 dataset[dataset.duplicated(['Id'],keep=False)]
 
 #to view the total of lines and columns,after delete duplicate ID
+
 #note that before there were 999 lines and now it has 995
 dataset.shape
