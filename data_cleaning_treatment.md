@@ -97,5 +97,6 @@ dataset[dataset.duplicated(['Id'],keep=False)]
 
 #to view the total of lines and columns,after delete duplicate ID
 
+
 #note that before there were 999 lines and now it has 995
 dataset.shape
