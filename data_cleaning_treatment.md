@@ -1,6 +1,9 @@
 #Purpose: Perform data cleaning and treatment using pandas and statistical functions
+
 #Author: Magda Monteiro
+
 #Date: July, 2021
+
 #This data is from Kaggle.com
 
 #--
@@ -13,13 +16,16 @@
 #So, let's begin!
 
 #first import the librarys of funcions 
+
 #give a alias for the library
 
 import pandas as pd
 import statistics as sts
 
 #later import the data
+
 #give a name for your data. In this case im using "dataset" like name
+
 #the name of the file that im using is "../input/dados-1/Churn.csv"
 
 dataset = pd.read_csv("../input/dados-1/Churn.csv", sep = ";")
