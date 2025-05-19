@@ -1,17 +1,3 @@
-#Purpose: Perform data cleaning and treatment using pandas and statistical functions
-
-#Author: Magda Monteiro
-
-#Date: July, 2021
-
-#This data is from Kaggle.com
-
-#--
-
-'''To perform an exploratory data analysis, we first need to clean and treatment the data so that it becomes consistent. 
-   This is one of the most important steps if you want to make quality decisions.'''
-
-#--
 
 #So, let's begin!
 
