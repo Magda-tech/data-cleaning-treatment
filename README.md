@@ -1,5 +1,5 @@
 ## 🧹Limpeza e tratamento de dados
-Objetivo: Realizar limpeza e tratamento de dados utilizando pandas e funções estatísticas. Aqui o objetivo não é fazer nenhuma análise aprofundada, apenas fazer o tratamento inicial dos dados.
+Objetivo: Realizar limpeza e tratamento de dados utilizando pandas e funções estatísticas. Aqui o objetivo não é fazer nenhuma análise aprofundada, apenas fazer o tratamento e descobertas iniciais dos dados.
 
 ## Autora: Magda Monteiro
 Data: Julho de 2021
@@ -14,6 +14,10 @@ Este repositório contém um notebook em Python que realiza a análise de um con
 
 - `notebooks/tratamento_1.ipynb`: notebook principal com o código da limpeza e tratamento.
 - `dados/entrada.csv`:https://www.kaggle.com/datasets/magdamonteiro/dados-1
+  
+## 📊Visualizações
+
+https://www.kaggle.com/code/magdamonteiro/cleaning-and-processing-of-customer-profile-data
 
 ## Como executar
 
