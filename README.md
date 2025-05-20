@@ -1,5 +1,5 @@
 ## Limpeza e tratamento de dados
-Objetivo: Realizar limpeza e tratamento de dados utilizando pandas e funções estatísticas.
+Objetivo: Realizar limpeza e tratamento de dados utilizando pandas e funções estatísticas. Aqui o objetivo não é fazer nenhuma análise aprofundada, apenas fazer o tratamento inicial dos dados.
 
 ## Autora: Magda Monteiro
 Data: Julho de 2021
